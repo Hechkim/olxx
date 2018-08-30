@@ -1,0 +1,150 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="olxx.uz" resolutions="1x" timestamp="1535655882428">
+  <folder name="css">
+    <file name="site_global.css" crc="4022469373"/>
+    <file name="televizorlar.css" crc="3831631954" ref="televizorlar"/>
+    <file name="texnikalar.css" crc="3831631954" ref="texnikalar"/>
+    <file name="uylar.css" crc="3831631954" ref="uylar"/>
+    <file name="index.css" crc="278165671" ref="index"/>
+    <file name="nomq_index.css" crc="3771721734" ref="index"/>
+    <file name="mashinalar.css" crc="3831631954" ref="mashinalar"/>
+    <file name="telefonlar.css" crc="3786022028" ref="telefonlar"/>
+    <file name="ishlar.css" crc="3831631954" ref="ishlar"/>
+    <file name="kompyuterlar.css" crc="3774787325" ref="kompyuterlar"/>
+    <file name="nomq_kompyuterlar.css" crc="383828282" ref="kompyuterlar"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:texnikalar:uylar:mashinalar:kompyuterlar:telefonlar:televizorlar:ishlar"/>
+    <file name="museutils.js" crc="4232573551" ref="index:texnikalar:uylar:mashinalar:kompyuterlar:telefonlar:televizorlar:ishlar"/>
+    <file name="whatinput.js" crc="86476730" ref="index:texnikalar:uylar:mashinalar:kompyuterlar:telefonlar:televizorlar:ishlar"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:texnikalar:uylar:mashinalar:kompyuterlar:telefonlar:televizorlar:ishlar"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:texnikalar:uylar:mashinalar:kompyuterlar:telefonlar:televizorlar:ishlar"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:kompyuterlar"/>
+    <file name="require.js" crc="4234670167" ref="index:texnikalar:uylar:mashinalar:kompyuterlar:telefonlar:televizorlar:ishlar"/>
+    <file name="webpro.js" crc="3770351119" ref="telefonlar"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="telefonlar"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="telefonlar"/>
+    <file name="touchswipe.js" crc="3912873526" ref="telefonlar"/>
+  </folder>
+  <folder name="images">
+    <file name="asosiy-favicon.ico" crc="531726175" ref="index"/>
+    <file name="olx-logo (1) wwкопия.png" crc="3818037564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безимени-8.jpg" crc="106785913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безимени-3.jpg" crc="3942561821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безимени-4.jpg" crc="4293712713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безимени-5.jpg" crc="4204156704" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безимени-9.jpg" crc="4268166496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безимени-10.jpg" crc="3832620602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безимени-11.jpg" crc="225326448" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безимени-2.jpg" crc="491880154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безимени-7.jpg" crc="3771815873" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безимени-12.jpg" crc="4057063735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безимени-13.jpg" crc="500358576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безимени-6.jpg" crc="4147086679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:kompyuterlar"/>
+    <file name="2p4vgdug.jpg" crc="3901817525" seo="true" ref="telefonlar">
+      <caption webpage="telefonlar" alt=""/>
+    </file>
+    <file name="15339119525b6da390439e7.jpg" crc="3860396261" seo="true" ref="telefonlar">
+      <caption webpage="telefonlar" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="64832976" seo="true" mt="1534017833544" redirect="true"/>
+  <file name="texnikalar.html" crc="3930991118" seo="true" mt="1533750081827" redirect="false"/>
+  <file name="uylar.html" crc="3812029805" seo="true" mt="1533750064570" redirect="false"/>
+  <file name="mashinalar.html" crc="4135784781" seo="true" mt="1533750053268" redirect="false"/>
+  <file name="kompyuterlar.html" crc="24233828" seo="true" mt="1534004955412" redirect="true"/>
+  <file name="telefonlar.html" crc="369160111" seo="true" mt="1533916270514" redirect="true"/>
+  <file name="televizorlar.html" crc="3837466371" seo="true" mt="1533750094850" redirect="false"/>
+  <file name="ishlar.html" crc="152923565" seo="true" mt="1533750142315" redirect="false"/>
+</manifest>
